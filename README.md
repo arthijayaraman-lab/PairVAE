@@ -9,5 +9,12 @@ The paired SEM-SAXS dataset can be downloaded [here](https://drive.google.com/fi
 If you use the codes in this repository, please cite the following [manuscript](https://doi.org/10.1021/jacsau.3c00275):
 Shizhao Lu and Arthi Jayaraman JACS Au 3 (9), 2510-2521 DOI: 10.1021/jacsau.3c00275
 
-## Funding
-This project is financially supported by the U.S. Department of Energy, Office of Science Grant Number DE-SC 0023264.
+## Acknowledgements
+We acknowledge financial support from the U.S. Department of Energy, Office of Science (Grant DE-SC 0023264) for this
+work and the collaborative discussions with Quentin Michaudel and Ryan Hayward. We are also grateful for the
+useful technical discussions with Todd Emrick and Jessica Schiffman at the University of Massachusetts, Amherst, that
+were facilitated via an ongoing collaboration supported by the NSF (DMREF Grant 1921871). We are truly grateful to
+Gregory S. Doerk, Kevin Yager, and their coauthors for making their block copolymer characterization data openly available,
+which enabled us to train the models used in PairVAE. The authors also thank Gregory S. Doerk, Jonathan A. Malen,
+Austin M. Evans, Brent S. Sumerlin, Pramod Reddy, Vasudevan Venkateshwaran, and Rama K. Vasudevan for
+their questions, comments, and discussion when we presented this method to them for their critique and feedback.
