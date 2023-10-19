@@ -7,7 +7,7 @@ The paired SEM-SAXS dataset can be downloaded [here](https://drive.google.com/fi
 
 ## Citing
 If you use the codes in this repository, please cite the following [manuscript](https://doi.org/10.1021/jacsau.3c00275):
-Shizhao Lu and Arthi Jayaraman JACS Au Article ASAP DOI: 10.1021/jacsau.3c00275
+Shizhao Lu and Arthi Jayaraman JACS Au 3 (9), 2510-2521 DOI: 10.1021/jacsau.3c00275
 
 ## Funding
 This project is financially supported by the U.S. Department of Energy, Office of Science Grant Number DE-SC 0023264.
